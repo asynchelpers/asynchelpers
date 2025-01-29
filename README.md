@@ -1,4 +1,4 @@
-# Asynchelpers - Asynchronous Python Utilities
+# AsyncHelpers - Asynchronous Python Utilities
 
 **High-performance toolkit for modern async Python development**
 
